@@ -16,7 +16,7 @@
 
 import logging
 
-from .. import base_loader, utils
+import base_loader, utils
 
 logger = logging.getLogger(__name__)
 
